@@ -1,0 +1,23 @@
+# Frontend (React / Node)
+node_modules/
+dist/
+build/
+npm-debug.log
+.vscode/
+
+# Backend (Python / Django / Flask)
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+
+# PocketBase runtime & DB files
+pocketbase/data/
+pocketbase/storage/
+*.db
+
+# OS & Logs
+.DS_Store
+Thumbs.db
+*.log
