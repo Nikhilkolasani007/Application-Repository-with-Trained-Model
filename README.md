@@ -1,9 +1,3 @@
-Got it 👍
-Here’s the **final README.md** in raw Markdown format. You can copy-paste this **directly into your repo** without extra formatting issues.
-
----
-
-```markdown
 # 🚀 Duality Hackathon – Safety Object Detection Application
 
 This repository contains the **application layer** for our Hackathon submission.  
@@ -13,7 +7,6 @@ It integrates our trained YOLOv8 object detection model with a **backend (Flask)
 
 ## 📂 Project Structure
 
-```
 
 application/
 ├── backend/         # Flask backend (REST API for predictions)
