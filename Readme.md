@@ -98,6 +98,7 @@ uvicorn app:app --reload --host 0.0.0.0 --port 8000
 ```
 
 API will be available at: `http://127.0.0.1:8000`
+<img width="1482" height="762" alt="image" src="https://github.com/user-attachments/assets/07c59d19-38be-43a1-a1d0-0d26d29568fa" />
 
 **Endpoints**:
 
