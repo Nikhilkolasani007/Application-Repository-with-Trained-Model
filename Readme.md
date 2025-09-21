@@ -165,7 +165,6 @@ backend/models/best.pt
 <img width="1979" height="1180" alt="output" src="https://github.com/user-attachments/assets/bc921fc3-8c3b-4b45-9924-5222c9597aed" />
 
 
-*(Add screenshots from your PPT into the `docs/` folder and replace placeholders.)*
 
 ---
 
