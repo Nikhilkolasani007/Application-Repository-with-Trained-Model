@@ -60,7 +60,7 @@ bash
 
 ```bash
 git clone https://github.com/Nikhilkolasani007/Application-Repository-with-Trained-Model.git
-cd duality-hackathon-application
+cd Application-Repository-with-Trained-Model
 ```
 
 ---
