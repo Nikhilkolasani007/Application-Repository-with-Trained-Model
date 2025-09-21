@@ -14,11 +14,11 @@ application/
 ├── pocketbase/      # PocketBase database (stores metadata / logs)
 ├── runs/            # (optional) YOLO runs directory (ignored by git)
 └── README.md        # You are here
-
+bash
 ````
 
 
-bash
+
   pip install ultralytics torch torchvision torchaudio
 ````
 
