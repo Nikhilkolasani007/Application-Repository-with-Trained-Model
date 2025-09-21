@@ -157,8 +157,9 @@ backend/models/best.pt
 
 ## 📸 Screenshots & Demo
 
-**Detection Example – Fire Extinguisher**  
-![Detection Screenshot](<img width="1402" height="785" alt="image" src="https://github.com/user-attachments/assets/941ae742-cedd-4fd0-bd1e-4ac330fab324" />)  
+**Detection Example – Oxygen Tank**  
+<img width="1402" height="785" alt="image" src="https://github.com/user-attachments/assets/d29c4d9d-cd93-4573-87eb-afca41480ef4" />
+
 
 **System Architecture**  
 ![Architecture Diagram](docs/architecture.png)  
