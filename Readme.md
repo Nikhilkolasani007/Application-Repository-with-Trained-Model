@@ -157,11 +157,8 @@ backend/models/best.pt
 
 ## 📸 Screenshots & Demo
 
-**UI – Upload & Prediction Page**  
-![UI Screenshot](docs/ui.png)  
-
 **Detection Example – Fire Extinguisher**  
-![Detection Screenshot](docs/detection.png)  
+![Detection Screenshot](<img width="1402" height="785" alt="image" src="https://github.com/user-attachments/assets/941ae742-cedd-4fd0-bd1e-4ac330fab324" />)  
 
 **System Architecture**  
 ![Architecture Diagram](docs/architecture.png)  
@@ -212,15 +209,7 @@ Expected response:
 }
 ```
 
----
 
-## 📦 Deployment
-
-* Can be containerized with **Docker**  
-* Backend & frontend deployable on **Heroku, Vercel, Render**  
-* PocketBase can run as binary or Docker service  
-
----
 
 ## 🙌 Team Notes
 
