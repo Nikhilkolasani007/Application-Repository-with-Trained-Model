@@ -6,15 +6,9 @@ It integrates our trained YOLOv8 object detection model with a **backend (Flask)
 ---
 
 ## 📂 Project Structure
-''''
 
-application/
-├── backend/         # Flask backend (REST API for predictions)
-├── frontend/        # React frontend (UI for uploading images / viewing results)
-├── pocketbase/      # PocketBase database (stores metadata / logs)
-├── runs/            # (optional) YOLO runs directory (ignored by git)
-└── README.md        # You are here
-''''
+<img width="561" height="135" alt="image" src="https://github.com/user-attachments/assets/cb717c03-89cf-42ce-b0b8-628608def5e9" />
+
 bash
 ````
 
