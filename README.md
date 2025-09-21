@@ -59,7 +59,7 @@ bash
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/duality-hackathon-application.git
+git clone https://github.com/Nikhilkolasani007/Application-Repository-with-Trained-Model.git
 cd duality-hackathon-application
 ```
 
