@@ -7,7 +7,8 @@ It integrates our trained YOLOv8 object detection model with a **backend (Flask)
 
 ## 📂 Project Structure
 
-<img width="561" height="135" alt="image" src="https://github.com/user-attachments/assets/cb717c03-89cf-42ce-b0b8-628608def5e9" />
+<img width="565" height="135" alt="image" src="https://github.com/user-attachments/assets/8c6b286a-ea68-4ef0-afac-8215f87664f8" />
+
 
 bash
 ````
