@@ -121,7 +121,8 @@ Upload an image → predictions from backend API will be displayed.
 ---
 
 ### 4️⃣ PocketBase Setup
-![Uploading image.png…]()
+<img width="1400" height="780" alt="image" src="https://github.com/user-attachments/assets/e1e420f9-05ad-4e44-8d75-c4a1d24d84d8" />
+
 
 ```bash
 cd ../pocketbase
