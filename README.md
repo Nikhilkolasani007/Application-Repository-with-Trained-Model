@@ -6,7 +6,7 @@ It integrates our trained YOLOv8 object detection model with a **backend (Flask)
 ---
 
 ## 📂 Project Structure
-
+''''
 
 application/
 ├── backend/         # Flask backend (REST API for predictions)
@@ -14,6 +14,7 @@ application/
 ├── pocketbase/      # PocketBase database (stores metadata / logs)
 ├── runs/            # (optional) YOLO runs directory (ignored by git)
 └── README.md        # You are here
+''''
 bash
 ````
 
