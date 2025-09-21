@@ -108,6 +108,7 @@ API will be available at: `http://127.0.0.1:8000`
 ---
 
 ### 3️⃣ Frontend Setup
+<img width="1402" height="785" alt="image" src="https://github.com/user-attachments/assets/864a1720-0a4b-4906-8073-67dd5f4fe231" />
 
 ```bash
 cd ../frontend
