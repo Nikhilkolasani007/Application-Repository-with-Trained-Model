@@ -17,6 +17,11 @@ application/
 
 ````
 
+
+bash
+  pip install ultralytics torch torchvision torchaudio
+````
+
 ---
 
 ## ⚡ Features
@@ -47,8 +52,6 @@ application/
 - YOLOv8 + PyTorch installed:  
   ```bash
   pip install ultralytics torch torchvision torchaudio
-````
-
 ---
 
 ## ⚙️ Setup Instructions
